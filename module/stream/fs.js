@@ -1,4 +1,4 @@
-let fs = require('master/module/fs');
+let fs = require('module/stream/fs');
 /*
 * fs
 * 读文件:readFile
